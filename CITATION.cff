@@ -3,7 +3,7 @@ message: "To cite this repository, use:"
 license: CC-BY-4.0
 title: "Sitting Interface for Urine Diverting Dry Toilet"
 date-released: "2025-06-10"
-doi: DOI
+doi: 10.5281/zenodo.15632914
 type: software
 authors:
   - family-names: D'Andrea

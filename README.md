@@ -1,5 +1,6 @@
 <!-- badges: start -->
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15632914.svg)](https://doi.org/10.5281/zenodo.15632914)
 <!-- badges: end -->
 
 <h1> Sitting Interface for Urine Diverting Dry Toilet </h1>
