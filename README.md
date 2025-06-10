@@ -91,7 +91,13 @@ The performance of sitting UDDT interfaces for urine diversion was evaluated wit
 | Children 1 | 88.7                | 4.0      | 85.0                | 5.6      |
 | Children 2 | 88.7                | 4.3      | 84.7                | 4.0      |
 
-The results above show that the interface was able to prevent between 81% and 88% of liquid from entering the faeces compartment of the UDDT toilet, calculated as a diverted volume of liquid per total volume of liquid, which passed through the urinator.
+The results above show that the interface was able to prevent between 81% and 88% of liquid from entering the feces compartment of the UDDT toilet, calculated as a diverted volume of liquid per total volume of liquid, which passed through the urinator.
+
+## Toilet Block Construction
+
+Above designs were constructed and integrated into new toilet blocks for Konanani Crèche at the outskirts of Pretoria, South Africa.
+
+![](img/construction.png)
 
 # License
 
