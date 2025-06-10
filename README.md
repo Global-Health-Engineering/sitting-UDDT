@@ -26,7 +26,7 @@ This repository compliments the openly-accessible master’s thesis, available o
 
 This repository compliments the Master's thesis of Teymour D'Andrea's, who adapted an existing open-source user interface of a Urine Diverting Dry Toilet (UDDT), designed by [EOOS](https://urinetrap.com/). The thesis proposes modifications to the design with an aim of making it more suitable for the South Africa’s context (i.e., sitting instead of squatting) and accessible to users of all age.
 
-This repository contains mechanical drawings (both 3D and 2S) of modified steel molds, based on the original open-source concept to cast concrete user interfaces. These interfaces were tested for urine collection efficiency, yielding satisfactory results. Further optimization of the steel mold design is suggested to facilitate easier extraction.
+This repository contains mechanical drawings (both 3D and 2D) of modified steel molds, based on the original open-source concept to cast concrete user interfaces. These interfaces were tested for urine collection efficiency, yielding satisfactory results. Further optimization of the steel mold design is suggested to facilitate easier extraction.
 
 ![](img/molds_and_concrete.png)
 
