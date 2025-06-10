@@ -75,7 +75,7 @@ The dimensions for both adult and children versions are available in `drawings/t
 
 ## Draft Angle for Demolding
 
-A draft angle of 3$\degree$ on all walls is suggested to facilitate concrete demolding process.
+A draft angle of 3 degrees on all walls is suggested to facilitate concrete demolding process.
 
 ![](drawings/draft_angle_recommend.png)
 
