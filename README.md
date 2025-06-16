@@ -6,7 +6,8 @@
 <h1> Sitting Interface for Urine Diverting Dry Toilet </h1>
 
 <b>Contributors</b>  
-- Teymour D'Andrea
+- Teymour D'Andrea <a href="https://orcid.org/0009-0000-6745-8110">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0009-0000-6745-8110
 </a> *author*  
 - Jakub Tkaczuk <a href="https://orcid.org/0000-0001-7997-9423">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-7997-9423
